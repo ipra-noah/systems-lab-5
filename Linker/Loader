@@ -1,0 +1,4 @@
+The Job of the Linker:
+The Linker is a tool that runs during the compilation process. Its main job is to combine independent object files (.o) and libraries into a single executable file. It performs Symbol Resolution (connecting function calls to their definitions) and Relocation (assigning memory addresses to code sections).
+The Job of the Loader:
+The Loader is part of the Operating System responsible for starting a program. It takes the executable file from the hard disk, places it into the main memory (RAM), initializes the registers, and tells the CPU to begin executing the instructions.
